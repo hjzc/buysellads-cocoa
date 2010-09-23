@@ -41,6 +41,9 @@ The Wordpress plugin is licensed under the [GPLv3](http://www.gnu.org/licenses/g
 #### Credits
 The initial framework was developed Derek Herman at [Valen Designs](http://valendesigns.com/)
 
+#### Source
+The source code is hosted on [github](http://github.com/buysellads/buysellads-wordpress)
+
 ### <a name="cocoa">Objective-C</a>
 	Note that the current BSA framework only supports Mac OS. An iOS version, however, is in the works.
 
@@ -99,6 +102,8 @@ The Cocoa framework is licensed under the [BSD License](http://www.opensource.or
 #### Credits
 The initial framework was developed for BSA by the fine folks at [freshcode](http://madefresh.ca/)
 
+#### Source
+The source code is hosted on [github](http://github.com/buysellads/buysellads-cocoa)
 
 ### <a name="support">Support</a>
 Bugs? Please open an Issue in the issue tracker.
