@@ -64,7 +64,7 @@ An example application is provided as part of this project.
 </a>
 
 ##### License
-The Cocoa framework is licensed under the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html)
+The Cocoa framework is licensed under the [BSD](http://www.opensource.org/licenses/bsd-license.php).
 
 ##### Credits
 The initial framework was developed for BSA by the fine folks at [freshcode](http://madefresh.ca/)
