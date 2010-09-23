@@ -50,7 +50,7 @@ The initial framework was developed Derek Herman at [Valen Designs](http://valen
 * [Mac OS X](http://www.apple.com/macosx/) 10.5 or later
 
 ##### Documentation
-
+Doxygen style comments are available [here](http://developer.buysellads.com/cocoa/html).
 
 ##### Examples
 An example application is provided as part of this project.
