@@ -17,7 +17,7 @@
 
 
 ### <a name="frameworks">Frameworks</a>
-There are currently only *two* frameworks officially supported by BuySellAds. If you are interested in seeing another framework developed, please [contact us](#support).
+If you are interested in seeing another framework developed, please [contact us](#support).
 
 ### <a name="cocoa">Objective-C</a>
 	Note that the current BSA framework only supports Mac OS. An iOS version, however, is in the works.
@@ -30,9 +30,6 @@ There are currently only *two* frameworks officially supported by BuySellAds. If
 #### Documentation
 Doxygen style comments are available [here](http://developer.buysellads.com/cocoa/html).
 
-#### Examples
-An example application is provided as part of this project.
-
 ##### Screencasts
 <script src="http://www.apple.com/library/quicktime/2.0/scripts/prototype.js" language="JavaScript" type="text/javascript"></script>
 <script src="http://www.apple.com/library/quicktime/2.0/scripts/qtp_poster.js" language="JavaScript" type="text/javascript"></script>
@@ -40,6 +37,9 @@ An example application is provided as part of this project.
 <a href="http://developer.buysellads.com/media/BSAScreencast.mov" rel="qtposter" jscontroller="false">
 	<img src="http://developer.buysellads.com/media/BSAScreencast.jpg" width="726" height="496"/>
 </a>
+
+#### Examples
+An example application is provided as part of this project. The XCode project contains two targets, the first is the framework itself, the second is a demo application.
 
 #### License
 The Cocoa framework is licensed under the [BSD License](http://www.opensource.org/licenses/bsd-license.php).
