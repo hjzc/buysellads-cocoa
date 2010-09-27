@@ -34,8 +34,8 @@ Doxygen style comments are available [here](http://developer.buysellads.com/coco
 <script src="http://www.apple.com/library/quicktime/2.0/scripts/prototype.js" language="JavaScript" type="text/javascript"></script>
 <script src="http://www.apple.com/library/quicktime/2.0/scripts/qtp_poster.js" language="JavaScript" type="text/javascript"></script>
 <link href="http://www.apple.com/library/quicktime/2.0/stylesheets/qtp_poster.css" rel="StyleSheet" type="text/css" />
-<a href="http://developer.buysellads.com/media/BSAScreencast.mov" rel="qtposter" jscontroller="false">
-	<img src="http://developer.buysellads.com/media/BSAScreencast.jpg" width="726" height="496"/>
+<a href="http://developer.buysellads.com/cocoa/media/BSAScreencast.mov" rel="qtposter" jscontroller="false">
+	<img src="http://developer.buysellads.com/cocoa/media/BSAScreencast.jpg" width="726" height="496"/>
 </a>
 
 #### Examples
