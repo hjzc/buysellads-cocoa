@@ -215,13 +215,13 @@
 		5F865ECF11DBEF9A000D212A /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				5FD4400C11E26B7200AF6A7B /* BSAAdViewDelegate.h */,
+				5F865ED011DBEFB4000D212A /* BSAAdView.h */,
+				5F865ED111DBEFB4000D212A /* BSAAdView.m */,
 				5FCF6CEC11D901F500B3A0D3 /* BSAAdContainerView.h */,
 				5FCF6CED11D901F500B3A0D3 /* BSAAdContainerView.m */,
 				5F86603311DD38A2000D212A /* BSAMiddleAlignedTextField.h */,
 				5F86603411DD38A2000D212A /* BSAMiddleAlignedTextField.m */,
-				5F865ED011DBEFB4000D212A /* BSAAdView.h */,
-				5F865ED111DBEFB4000D212A /* BSAAdView.m */,
-				5FD4400C11E26B7200AF6A7B /* BSAAdViewDelegate.h */,
 				5F86616811DE2F56000D212A /* BSAAdView+Private.h */,
 				5F86616911DE2F56000D212A /* BSAAdView+Private.m */,
 				5F86615711DE2C8D000D212A /* BSAAdImageView.h */,
@@ -610,8 +610,10 @@
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "Framework/BSAAdFramework-Info.plist";
 				INSTALL_PATH = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				OTHER_LDFLAGS = (
 					"-framework",
 					Foundation,

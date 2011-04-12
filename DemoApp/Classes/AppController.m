@@ -51,19 +51,19 @@
 
 - (void)awakeFromNib
 {
-    adContainerView.zoneIdentifier = [NSNumber numberWithInt:1248790];  // BSA Test
+    adContainerView.zoneIdentifier = [NSNumber numberWithInt:1256480];  // BSA Test
     adContainerView.delegate = self;
     //adContainerView2.zoneIdentifier = [NSNumber numberWithInt:1248791]; // Test 728x90
     //adContainerView2.zoneIdentifier = [NSNumber numberWithInt:1248941]; // Empty test   
-    adContainerView2.zoneIdentifier = [NSNumber numberWithInt:1249132]; //Demo account ImageOnly
+    adContainerView2.zoneIdentifier = [NSNumber numberWithInt:1256480]; //Demo account ImageOnly
     adContainerView2.delegate = self;
     //adContainerViewImageAndText.zoneIdentifier = [NSNumber numberWithInt:1248303];  // css-tricks image and text
-    adContainerViewImageAndText.zoneIdentifier = [NSNumber numberWithInt:1249132];  //Demo account ImageOnly
+    adContainerViewImageAndText.zoneIdentifier = [NSNumber numberWithInt:1256480];  //Demo account ImageOnly
 
     adContainerViewImageAndText.delegate = self;
-    [[BSAAdController sharedController] loadAdsWithKey:@"d281265fc4650a64c7b0dbfeda3c64e2"];  // BSA Test
-    [[BSAAdController sharedController] loadAdsWithKey:@"3469a2a501a9e18091036aa0c89f9dcb"]; // CSS Tricks
-    [[BSAAdController sharedController] loadAdsWithKey:@"6a492834da3f65826de6b32cadb9dfe0"]; // Demo account
+    [[BSAAdController sharedController] loadAdsWithKey:@"22736848ed2646da4dca9799b0c967e3"];  // BSA Test
+   // [[BSAAdController sharedController] loadAdsWithKey:@"3469a2a501a9e18091036aa0c89f9dcb"]; // CSS Tricks
+    //[[BSAAdController sharedController] loadAdsWithKey:@"6a492834da3f65826de6b32cadb9dfe0"]; // Demo account
 }
 
 #pragma mark BSAAdContainerViewDelegate
